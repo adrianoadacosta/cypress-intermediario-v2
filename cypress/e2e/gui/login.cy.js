@@ -10,4 +10,3 @@ describe('Login', () => {
 
 // npx cypress run --spec cypress/e2e/gui/login.cy.js
 
-// npx cypress run --spec cypress/e2e/gui/logout.cy.js
